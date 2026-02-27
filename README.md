@@ -1,7 +1,11 @@
 
   # Responsive SaaS Admin Dashboard
 
-  This is a code bundle for Responsive SaaS Admin Dashboard. The original project is available at https://www.figma.com/design/fERpZd3XAUasV7fV65k4yR/Responsive-SaaS-Admin-Dashboard.
+🔗 Live Demo: https://saadmindashboard.netlify.app/
+
+⚙ Installation & Development Clone the repository:
+
+git clone https://github.com/Ellada40/responsive-saas-admin-dashboard.git
 
   ## Running the code
 
